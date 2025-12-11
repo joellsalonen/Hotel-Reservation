@@ -1,2 +1,1 @@
-Tämä ohjelma on yksinkertainen hotellivarausjärjestelmä, jossa käyttäjä voi tehdä varauksia, tarkistaa varauksia ja tarkastella vapaiden huoneiden tilannetta. Ohjelma käyttää C++:n vector-rakennetta huoneiden ja varausten hallintaan, sekä satunnaislukugeneraattoria huoneiden määrän ja hintojen luomiseen.
-Ohjelma toteuttaa perusvarausjärjestelmän, jossa on varausten tekeminen, etsiminen ja vapaiden huoneiden näyttäminen, ja ohjelma toimii käyttäjäystävällisesti sekä selkeästi näytöllä.
+
